@@ -1,5 +1,6 @@
 pypdf
-langchain
-chromadb # Vector storage
+langchain-community
+langchain-chroma  # Vector storage
+langchain-ollama   # For Ollama integrations 
 pytest
 boto3
