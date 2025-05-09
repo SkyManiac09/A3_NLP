@@ -1,1 +1,1 @@
-# rag-tutorial-v2
+# OphthoRAG v.1
